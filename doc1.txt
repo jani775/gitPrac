@@ -5,3 +5,5 @@ this is the second commit in master branch.
 this is commit for master branch.
 
 this is the first commit in feature2 branch.
+
+this is the first commit in feature branch.
